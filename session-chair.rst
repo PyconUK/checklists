@@ -2,7 +2,6 @@ Session Chair Checklist
 =======================
 
 * If possible, before your session try to meet or email the speakers who you'll be supporting and say "hi". Check they:
-
  * tell you about any special requirements they may have;
  * have the correct projector dongle for their laptop (input is standard VGA);
  * they understand what time and place their talk will be (seriously). ;-)
